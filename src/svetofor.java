@@ -11,11 +11,11 @@ public class svetofor {
 
             String result = "";
             switch (ch) {
-                case 'r':
-                    result = "red";
-                    break;
                 case 'y':
                     result = "yellow";
+                    break;
+                case 'r':
+                    result = "red";
                     break;
                 case 'g':
                     result = "green";
